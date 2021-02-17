@@ -1,13 +1,13 @@
 <?php
    /*
-   Plugin Name: Feature Image Remover
-   Plugin URI: http://my-awesomeness-emporium.com
+   Plugin Name: Featured Image Remover
+   Plugin URI: http://github.com/matiasnoriega/featured_image_remover
    description: >-
-  a plugin to create awesomeness and spread joy
-   Version: 1.2
-   Author: Mr. Awesome
-   Author URI: http://mrtotallyawesome.com
-   License: GPL2
+  plugin para dejar de mostrar la imagen destacada de AMP a hasta determinada fecha
+   Version: 1.0
+   Author: Matias Nicolas Noriega
+   Author URI: http://github.com/matiasnoriega/
+   License: GPL3
    */
 
 
